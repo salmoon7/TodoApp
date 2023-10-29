@@ -29,7 +29,9 @@ Delete (D): You can delete a task by swiping right on it and confirming the dele
 # Screenshot
 ![Edit task](https://github.com/salmoon7/TodoApp/blob/main/IMG_6209.PNG)
 Edit and mark task as complete or imcomplete
-![Delete All]()
+![Delete All](https://github.com/salmoon7/TodoApp/blob/main/IMG_6210.PNG)
+Alert box to delete All task
+
 # Table of content 
 Prerequisites
 Getting Started
