@@ -27,7 +27,9 @@ Update (U): To update a task, simply tap on it in the list. You can change the t
 
 Delete (D): You can delete a task by swiping right on it and confirming the deletion. The task will be removed from the list.
 # Screenshot
-
+![Edit task](https://github.com/salmoon7/TodoApp/blob/main/IMG_6209.PNG)
+Edit and mark task as complete or imcomplete
+![Delete All]()
 # Table of content 
 Prerequisites
 Getting Started
