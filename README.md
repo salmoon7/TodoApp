@@ -1,5 +1,32 @@
 # Todo App with React Native Expo
 This is a simple Todo App built with React Native and Expo. It includes a backend service that must be invoked via the API file. This README will guide you through setting up, running, and customizing the app.
+Functionality
+# User Interface (UI)
+The Todo App features a user-friendly and intuitive user interface designed with React Native and Expo. Key UI elements include:
+
+Task List: Displays a list of all your tasks, including their titles and status (completed or not).
+
+Add Task: Easily add new tasks with a title and a simple tap.
+
+Edit Task: Update existing tasks by tapping on them. You can modify the title and change the completion status.
+
+Delete Task: Remove tasks from the list by swiping right on a task and confirming the deletion.
+
+Mark as Complete/Incomplete: Tap on a task to mark it as completed or incomplete.
+
+Filter Tasks: Quickly filter tasks by their completion status (All, Completed, or Incomplete).
+
+# CRUD Operations
+The app supports all basic CRUD (Create, Read, Update, Delete) operations for managing your tasks:
+
+Create (C): You can create a new task by tapping the "Add Task" button. Provide a title for the task, and it will be added to the list.
+
+Read (R): The app displays all your tasks in a scrollable list. You can see the title and the completion status of each task.
+
+Update (U): To update a task, simply tap on it in the list. You can change the task's title and mark it as completed or incomplete.
+
+Delete (D): You can delete a task by swiping right on it and confirming the deletion. The task will be removed from the list.
+# Screenshot
 
 # Table of content 
 Prerequisites
